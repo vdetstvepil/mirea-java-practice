@@ -1,4 +1,4 @@
-package com.company;
+package task1;
 
 public class Ball {
     private String model;

@@ -1,4 +1,4 @@
-package com.company;
+package task1;
 
 public class Book {
     private final String author;
