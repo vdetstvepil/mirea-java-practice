@@ -1,4 +1,4 @@
-package task9;
+package task10;
 
 // Класс Ping.
 class Ping implements Runnable{
